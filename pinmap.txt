@@ -1,0 +1,27 @@
+//SPI 
+
+SS      5
+SCLK    18
+MISO    19
+MOSI    23
+
+// RFM69
+DIO0    15
+RESET   ?
+
+//ENCODER
+A       ?
+B       ?
+
+//BUTTON
+IN      ?
+
+//DISPLAY
+I2C     ?
+
+//INDICATOR
+LED     2
+
+//BATTERY
+ADC     ?
+
